@@ -11,3 +11,5 @@ Technical details
 - Stages : DEV /UAT / PRD 
 - Deployment : HELM 
 - Infra : Kubernetes 
+- Security - Static / sonar and bandit
+- Monitoring : External.
